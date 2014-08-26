@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Luis Lavina "https://gihub.com/chojayr"
+MAINTAINER Luis Lavina "https://github.com/chojayr"
 
 ENV DEBIAN_FRONTEND noninteractive
 
